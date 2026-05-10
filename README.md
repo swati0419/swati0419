@@ -25,10 +25,6 @@ I am an aspiring developer passionate about building modern and interactive appl
 ![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github)
 ![Vite](https://img.shields.io/badge/vite-black.svg?style=for-the-badge&logo=vite)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swati0419&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swati0419&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 [![An image of @swati0419's Holopin badges](https://holopin.io/api/user/board?user=swati0419)](https://holopin.io/@swati0419)
