@@ -9,8 +9,8 @@ I am an aspiring developer passionate about building modern and interactive appl
 🎯 Focused on improving coding consistency and logic building  
 
 # 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/swati-shah-863a05325/)  
-[Gmail](shahswatishah19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-shah-863a05325/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahswatishah19@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -26,8 +26,9 @@ I am an aspiring developer passionate about building modern and interactive appl
 ![Vite](https://img.shields.io/badge/vite-black.svg?style=for-the-badge&logo=vite)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swati0419&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swati0419&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=swati0419&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swati0419&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 [![An image of @swati0419's Holopin badges](https://holopin.io/api/user/board?user=swati0419)](https://holopin.io/@swati0419)
