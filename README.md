@@ -9,7 +9,7 @@ I am an aspiring developer passionate about building modern and interactive appl
 🎯 Focused on improving coding consistency and logic building  
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-shah-863a05325/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-shah-863a05325/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahswatishah19@gmail.com)
 
 # 💻 Tech Stack:
